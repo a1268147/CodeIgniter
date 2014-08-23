@@ -4,6 +4,8 @@ Test
 
 Testing...
 
+-  `User guide <http://google.com>`_
+
 ###################
 What is CodeIgniter
 ###################
