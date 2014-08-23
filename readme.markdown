@@ -1,14 +1,12 @@
-#######
 Test
-#######
+===========
 
 Testing...
 
 -  `User guide <http://google.com>`_.
 
-********************
 Code test
-********************
+=============
 
 ```php
 class CI_Test extends CI_Controller {
@@ -19,9 +17,8 @@ class CI_Test extends CI_Controller {
 }
 ```
 
-###################
 What is CodeIgniter
-###################
+--------------------
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
