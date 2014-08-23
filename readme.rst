@@ -4,7 +4,7 @@ Test
 
 Testing...
 
--  `User guide <http://google.com>`_
+-  `User guide <http://google.com>`_blank
 
 ###################
 What is CodeIgniter
