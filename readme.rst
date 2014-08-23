@@ -6,12 +6,12 @@ Testing...
 
 -  `User guide <http://google.com>`_.
 
-```php
+'''php
 class Test extends CI_Controller {
 	
 	public function __construct() {}
 }
-```
+'''
 
 ###################
 What is CodeIgniter
