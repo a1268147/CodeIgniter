@@ -6,9 +6,9 @@ Testing...
 
 -  `User guide <http://google.com>`_.
 
-```javascript
+``javascript
 var name = "test";
-```
+``
 
 ###################
 What is CodeIgniter
