@@ -6,9 +6,16 @@ Testing...
 
 -  `User guide <http://google.com>`_.
 
-``javascript
-var name = "test";
-``
+********************
+Code test
+********************
+
+	class CI_Test extends CI_Controller {
+		
+		public function __construct() {
+			return $this;
+		}
+	}
 
 ###################
 What is CodeIgniter
