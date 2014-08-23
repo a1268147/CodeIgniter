@@ -11,12 +11,12 @@ Code test
 ********************
 
 ```php
-	class CI_Test extends CI_Controller {
+class CI_Test extends CI_Controller {
 		
-		public function __construct() {
-			return $this;
-		}
+	public function __construct() {
+		return $this;
 	}
+}
 ```
 
 ###################
