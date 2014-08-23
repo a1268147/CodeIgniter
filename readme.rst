@@ -6,13 +6,8 @@ Testing...
 
 -  `User guide <http://google.com>`_.
 
-```php
-<?php
-class CI_MyClass extends CI_Controller {
-
-	public function __construct() {}
-
-}
+```javascript
+var name = "test";
 ```
 
 ###################
